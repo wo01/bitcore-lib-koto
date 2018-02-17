@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib-zcash",
+  "name": "bitcore-lib-koto",
   "version": "0.13.19",
-  "description": "A pure and powerful JavaScript Zcash library.",
+  "description": "A pure and powerful JavaScript Koto library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -58,10 +58,14 @@
     {
       "name": "Jack Grigg",
       "email": "jack@z.cash"
+    },
+    {
+      "name": "WO",
+      "email": "wo@kotocoin.info"
     }
   ],
   "keywords": [
-    "zcash",
+    "koto",
     "transaction",
     "address",
     "p2p",
@@ -78,7 +82,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/str4d/bitcore-lib-zcash.git"
+    "url": "https://github.com/wo01/bitcore-lib-koto.git"
   },
   "browser": {
     "request": "browser-request"
@@ -92,7 +96,7 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build-zcash": "str4d/bitcore-build-zcash",
+    "bitcore-build-koto": "wo01/bitcore-build-koto",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
