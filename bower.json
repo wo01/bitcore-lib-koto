@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-lib-zcash",
-  "main": "./bitcore-lib-zcash.min.js",
+  "name": "bitcore-lib-koto",
+  "main": "./bitcore-lib-koto.min.js",
   "version": "0.13.19",
   "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc.",
     "Jack Grigg"
   ],
-  "description": "A pure, powerful core for your zcash project.",
+  "description": "A pure, powerful core for your koto project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "zcash",
+    "koto",
     "bitcore",
     "btc",
     "satoshi"
