@@ -88,6 +88,7 @@
     "request": "browser-request"
   },
   "dependencies": {
+    "blake2b": "^2.1.2",
     "bn.js": "=2.0.4",
     "bs58": "=2.0.0",
     "buffer-compare": "=1.0.0",
